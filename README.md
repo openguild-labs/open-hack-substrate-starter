@@ -18,6 +18,7 @@ Add your information to the below list to officially participate in the workshop
 | 💻:3  | Anh Pham  | [FucktheKingcode](https://github.com/FucktheKingcode) | Dev to the Moon          |
 | 🦀    | Khuong Duy | [marciohardcore](https://github.com/marciohardcore) | Student |
 | 🦀    | Phong Cao | [katafo](https://github.com/katafo)             | Backend Dev              |
+| 🦀    | Phu Sy | [phusy2001](https://github.com/phusy2001) | Developer
 | _     | -- | -- | -- |
 
 ## Learn more about OpenGuild
