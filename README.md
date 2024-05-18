@@ -15,6 +15,7 @@ Add your information to the below list to officially participate in the workshop
 | 🛀    | Dam Nguyen       | [damnt055](https://github.com/DamNT055)       | Amateur Coding at Mia |
 | 🦀    | Trong Dinh | trongdth | Ninja @ Nexm Labs |
 | 💻:3  | Anh Pham  | [FucktheKingcode](https://github.com/FucktheKingcode) | Dev to the Moon          |
+| 🦀    | Khuong Duy | [marciohardcore](https://github.com/marciohardcore) | Student |
 | 🦀    | Phong Cao | [katafo](https://github.com/katafo)             | Backend Dev              |
 | _     | -- | -- | -- |
 
