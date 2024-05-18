@@ -11,10 +11,13 @@ Add your information to the below list to officially participate in the workshop
 | Emoji | Name            | Github Username                                       | Occupations              |
 | ----- | --------------- | ----------------------------------------------------- | ------------------------ |
 | 💻    | Tin Chung       | [chungquantin](https://github.com/chungquantin)       | DevRel Lead Polkadot SEA |
+| 💻    | Yang       | khoahua04      | Dev @ Nexm Labs |
 | 💻     | Quoc Tran | quoctran1 | Dev |
 | 🛀    | Dam Nguyen       | [damnt055](https://github.com/DamNT055)       | Amateur Coding at Mia |
 | 🦀    | Trong Dinh | trongdth | Ninja @ Nexm Labs |
 | 💻:3  | Anh Pham  | [FucktheKingcode](https://github.com/FucktheKingcode) | Dev to the Moon          |
+| 🦀    | Khuong Duy | [marciohardcore](https://github.com/marciohardcore) | Student |
+| 🦀    | Phong Cao | [katafo](https://github.com/katafo)             | Backend Dev              |
 | 🦀    | Phu Sy | [phusy2001](https://github.com/phusy2001) | Developer
 | _     | -- | -- | -- |
 
