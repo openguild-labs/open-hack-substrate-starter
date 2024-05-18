@@ -8,10 +8,10 @@ Repositoriy is made by the **OpenGuild Labs** to introduce OpenHack workshop par
 
 Add your information to the below list to officially participate in the workshop challenge (This is the first mission of the whole workshop)
 
-| Emoji | Name            | Github Username                                       | Occupations              |
-| ----- | --------------- | ----------------------------------------------------- | ------------------------ |
-| 💻    | Tin Chung       | [chungquantin](https://github.com/chungquantin)       | DevRel Lead Polkadot SEA |
-| _     | -- | -- | -- |
+| Emoji | Name      | Github Username                                       | Occupations              |
+| ----- | --------- | ----------------------------------------------------- | ------------------------ |
+| 💻    | Tin Chung | [chungquantin](https://github.com/chungquantin)       | DevRel Lead Polkadot SEA |
+| 💻:3  | Anh Pham  | [FucktheKingcode](https://github.com/FucktheKingcode) | Dev to the Moon          |
 
 ## Learn more about OpenGuild
 
@@ -64,7 +64,7 @@ Go to **Participant Registration** section and register to be the workshop parti
 
 - Step 5: `Commit` your code and push to the forked Github repository
 
-```
+````
 git add .
 git commit -m "Register for OpenHack workshop"
 
@@ -92,7 +92,7 @@ If you’re using Linux or macOS, open a terminal and enter the following comman
 
 ```console
 $ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
-```
+````
 
 The command downloads a script and starts the installation of the `rustup`
 tool, which installs the latest stable version of Rust. You might be prompted
@@ -204,11 +204,13 @@ pop new parachain my-app pop -t evm
 # Run the below command to boot your local relaychain
 pop up parachain -f ./network.toml
 ```
+
 If your parachain can be run successfully then you already finished the exercise. Submit to OpenGuild Community to claim 100XP. [Learn how to claim the XP and Bounty](https://handbook.openguild.wtf/general-information/membership/how-to-claim-xp-and-bounty).
 
 After finish the challenge, push your code to your personal repository named `og-parachain-built-with-pop`
 
 ---
+
 ## Mission 5 (Optional): Advanced Pallet configuration
 
 - Bounty: 2 DOT for every 3 fastest challengers
