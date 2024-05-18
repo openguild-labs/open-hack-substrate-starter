@@ -11,7 +11,7 @@ Add your information to the below list to officially participate in the workshop
 | Emoji | Name            | Github Username                                       | Occupations              |
 | ----- | --------------- | ----------------------------------------------------- | ------------------------ |
 | 💻    | Tin Chung       | [chungquantin](https://github.com/chungquantin)       | DevRel Lead Polkadot SEA |
-| _     | -- | -- | -- |
+| 💻    | Yang       | khoahua04      | Dev @ Nexm Labs |
 
 ## Learn more about OpenGuild
 
