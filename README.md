@@ -1,7 +1,6 @@
 # OpenHack Workshop - Substrate Starter
 
-![image](https://github.com/openguild-labs/open-hack-substrate-starter/assets/56880684/f14b8f33-9364-401d-ad87-fab5537c2dc9)
-
+<img src="https://github.com/openguild-labs/open-hack-substrate-starter/assets/56880684/f51cb9ae-5b86-454b-b90c-d3e485b5c5a5" width="250px"/>
 
 Repositoriy is made by the **OpenGuild Labs** to introduce OpenHack workshop participants about Polkadot SDK - Substrate and help the participants to get familiar with the blockchain builder tool.
 
@@ -12,7 +11,8 @@ Add your information to the below list to officially participate in the workshop
 | Emoji | Name            | Github Username                                       | Occupations              |
 | ----- | --------------- | ----------------------------------------------------- | ------------------------ |
 | 💻    | Tin Chung       | [chungquantin](https://github.com/chungquantin)       | DevRel Lead Polkadot SEA |
-| _     | --------------- | ----------------------------------------------------- | ------------------------ |
+| _     | -- | -- | -- |
+
 ## Learn more about OpenGuild
 
 - **About us:** [Learn more about us](https://openguild.wtf/about)
@@ -188,13 +188,34 @@ $ rustup self uninstall
 
 ## Mision 3: Install `pop-cli`
 
-TODO
+Detailed guidelines can be found here [Learn more about POP Cli](https://github.com/r0gue-io/pop-cli)
 
 ---
 
 ## Mision 4: Create a EVM-compatible parachain
 
-TODO
+```
+# Create a minimal parachain
+pop new parachain my-app
+
+# Create a evm parachain
+pop new parachain my-app pop -t evm
+
+# Run the below command to boot your local relaychain
+pop up parachain -f ./network.toml
+```
+If your parachain can be run successfully then you already finished the exercise. Submit to OpenGuild Community to claim 100XP. [Learn how to claim the XP and Bounty](https://handbook.openguild.wtf/general-information/membership/how-to-claim-xp-and-bounty).
+
+After finish the challenge, push your code to your personal repository named `og-parachain-built-with-pop`
+
+---
+## Mission 5 (Optional): Advanced Pallet configuration
+
+- Bounty: 2 DOT for every 3 fastest challengers
+
+[Add a nickname customization functionality with pallet-nicks](https://docs.substrate.io/tutorials/build-application-logic/add-a-pallet/)
+
+After finish the challenge, push your code to your personal repository named `og-parachain-built-with-pop`
 
 # 🙌 How to contribute to the community?
 
