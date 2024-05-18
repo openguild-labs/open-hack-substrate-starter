@@ -8,11 +8,15 @@ Repositoriy is made by the **OpenGuild Labs** to introduce OpenHack workshop par
 
 Add your information to the below list to officially participate in the workshop challenge (This is the first mission of the whole workshop)
 
-| Emoji | Name      | Github Username                                 | Occupations              |
-| ----- | --------- | ----------------------------------------------- | ------------------------ |
-| 💻    | Tin Chung | [chungquantin](https://github.com/chungquantin) | DevRel Lead Polkadot SEA |
+| Emoji | Name            | Github Username                                       | Occupations              |
+| ----- | --------------- | ----------------------------------------------------- | ------------------------ |
+| 💻    | Tin Chung       | [chungquantin](https://github.com/chungquantin)       | DevRel Lead Polkadot SEA |
+| 💻     | Quoc Tran | quoctran1 | Dev |
+| 🛀    | Dam Nguyen       | [damnt055](https://github.com/DamNT055)       | Amateur Coding at Mia |
+| 🦀    | Trong Dinh | trongdth | Ninja @ Nexm Labs |
+| 💻:3  | Anh Pham  | [FucktheKingcode](https://github.com/FucktheKingcode) | Dev to the Moon          |
 | 🦀    | Phong Cao | [katafo](https://github.com/katafo)             | Backend Dev              |
-| \_    | --        | --                                              | --                       |
+| _     | -- | -- | -- |
 
 ## Learn more about OpenGuild
 
@@ -68,7 +72,7 @@ Go to **Participant Registration** section and register to be the workshop parti
 ````
 git add .
 git commit -m "Register for OpenHack workshop"
-
+```
 
 - Step 6: Create a `Pull Request` to merge your changes to this repository and name your PR as `Your name | Register for OpenHack workshop`
 
