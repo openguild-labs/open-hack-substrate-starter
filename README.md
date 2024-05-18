@@ -13,6 +13,7 @@ Add your information to the below list to officially participate in the workshop
 | 💻    | Tin Chung       | [chungquantin](https://github.com/chungquantin)       | DevRel Lead Polkadot SEA |
 | 🦀    | Trong Dinh | trongdth | Ninja @ Nexm Labs |
 | 💻:3  | Anh Pham  | [FucktheKingcode](https://github.com/FucktheKingcode) | Dev to the Moon          |
+| 🦀    | Khuong Duy | [marciohardcore](https://github.com/marciohardcore) | Student |
 | _     | -- | -- | -- |
 
 ## Learn more about OpenGuild
