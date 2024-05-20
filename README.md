@@ -19,7 +19,7 @@ Add your information to the below list to officially participate in the workshop
 | 🦀    | Khuong Duy | [marciohardcore](https://github.com/marciohardcore)   | Student                  |
 | 🦀    | Phong Cao  | [katafo](https://github.com/katafo)                   | Backend Dev              |
 | 🦀    | Phu Sy     | [phusy2001](https://github.com/phusy2001)             | Developer                |
-| 🦀    | Leo Pham   | [HongThaiPham](https://github.com/HongThaiPham)       | Dev                      |
+| 🦀    | Leo Pham   | [HongThaiPham](https://github.com/HongThaiPham)       | Blockchain Dev           |
 | \_    | --         | --                                                    | --                       |
 
 ## Learn more about OpenGuild
