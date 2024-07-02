@@ -1,6 +1,6 @@
 # OpenHack Workshop - Substrate Starter
 
-<img src="https://github.com/openguild-labs/open-hack-substrate-starter/assets/56880684/f51cb9ae-5b86-454b-b90c-d3e485b5c5a5" width="250px"/>
+![Substrate_Starter](https://github.com/openguild-labs/open-hack-substrate-starter/assets/56880684/99d80d93-082e-4b17-9cc5-817c33d7cab0)
 
 Repositoriy is made by the **OpenGuild Labs** to introduce OpenHack workshop participants about Polkadot SDK - Substrate and help the participants to get familiar with the blockchain builder tool.
 
