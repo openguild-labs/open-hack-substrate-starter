@@ -8,19 +8,19 @@ Repositoriy is made by the **OpenGuild Labs** to introduce OpenHack workshop par
 
 Add your information to the below list to officially participate in the workshop challenge (This is the first mission of the whole workshop)
 
-| Emoji | Name       | Github Username                                       | Occupations              |
-| ----- | ---------- | ----------------------------------------------------- | ------------------------ |
-| 💻    | Tin Chung  | [chungquantin](https://github.com/chungquantin)       | DevRel Lead Polkadot SEA |
-| 💻    | Yang       | khoahua04                                             | Dev @ Nexm Labs          |
-| 💻    | Quoc Tran  | quoctran1                                             | Dev                      |
-| 🛀    | Dam Nguyen | [damnt055](https://github.com/DamNT055)               | Amateur Coding at Mia    |
-| 🦀    | Trong Dinh | trongdth                                              | Ninja @ Nexm Labs        |
-| 💻:3  | Anh Pham   | [FucktheKingcode](https://github.com/FucktheKingcode) | Dev to the Moon          |
-| 🦀    | Khuong Duy | [marciohardcore](https://github.com/marciohardcore)   | Student                  |
-| 🦀    | Phong Cao  | [katafo](https://github.com/katafo)                   | Backend Dev              |
-| 🦀    | Phu Sy     | [phusy2001](https://github.com/phusy2001)             | Developer                |
-| 🦀    | Leo Pham   | [HongThaiPham](https://github.com/HongThaiPham)       | Blockchain Dev           |
-| \_    | --         | --                                                    | --                       |
+| Emoji | Name               | Github Username                                   | Occupations                 |
+| ----- | ------------------ | ------------------------------------------------- | --------------------------- |
+| 💻    | Tin Chung          | [chungquantin](https://github.com/chungquantin)   | DevRel Lead Polkadot SEA    |
+| 💻    | Yang               | khoahua04                                         | Dev @ Nexm Labs             |
+| 💻    | Quoc Tran          | quoctran1                                         | Dev                         |
+| 🛀    | Dam Nguyen         | [damnt055](https://github.com/DamNT055)           | Amateur Coding at Mia       |
+| 🦀    | Trong Dinh         | trongdth                                          | Ninja @ Nexm Labs           |
+| 💻:3  | Anh Pham           | [FucktheKingcode](https://github.com/FucktheKingcode) | Dev to the Moon         |
+| 🦀    | Khuong Duy         | [marciohardcore](https://github.com/marciohardcore) | Student                     |
+| 🦀    | Phong Cao          | [katafo](https://github.com/katafo)               | Backend Dev                 |
+| 🦀    | Phu Sy             | [phusy2001](https://github.com/phusy2001)         | Developer                   |
+| 🦀    | Leo Pham           | [HongThaiPham](https://github.com/HongThaiPham)   | Blockchain Dev              |
+| 💻    | Armielyn Obinguar  | [armlynobinguar](https://github.com/armlynobinguar) | DevRel @ Virtuals Protocol  |
 
 ## Learn more about OpenGuild
 
