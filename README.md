@@ -20,6 +20,7 @@ Add your information to the below list to officially participate in the workshop
 | 🦀    | Phong Cao  | [katafo](https://github.com/katafo)                   | Backend Dev              |
 | 🦀    | Phu Sy     | [phusy2001](https://github.com/phusy2001)             | Developer                |
 | 🦀    | Leo Pham   | [HongThaiPham](https://github.com/HongThaiPham)       | Blockchain Dev           |
+| 🦀    | Quang Hoang| [quangpro1610](https://github.com/quangpro1610)       | Freelancer
 | \_    | --         | --                                                    | --                       |
 
 ## Learn more about OpenGuild
